@@ -119,6 +119,7 @@ Scripts/
 pyvenv.cfg
 
 ### VisualStudioCode ###
+.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
