@@ -1,6 +1,6 @@
 from pushbullet import Pushbullet
 
-API_KEY = 'o.5ZOaFJKSLsZ20iBxRNtf7dVEjtOissCc'
+API_KEY = 'API_KEY'
 
 class PushbulletClient:
     def __init__(self):
